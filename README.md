@@ -9,3 +9,5 @@ This is a training project where I am learning to apply **C++** concepts, specif
 * Faculty Management:
 * User Authentication:
 
+## Technologies Used:
+
